@@ -1,0 +1,7 @@
+#Sat May 27 16:08:36 KST 2017
+base.0=C\:\\AndroidSDK\\NeoPul1.4\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_560b470591f0b5e076215ad5527f4ac4eaeb7478
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\AndroidSDK\\NeoPul1.4\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e283878e7307e0b827b566014cca21693858e0ea\\classes.dex
+base.1=C\:\\AndroidSDK\\NeoPul1.4\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e283878e7307e0b827b566014cca21693858e0ea
+file.0=C\:\\AndroidSDK\\NeoPul1.4\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_560b470591f0b5e076215ad5527f4ac4eaeb7478\\classes.dex

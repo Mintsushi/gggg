@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\AndroidSDK\\NeoPul1.4\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "C:\\AndroidSDK\\NeoPul1.4\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\AndroidSDK\\NeoPul1.4\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\AndroidSDK\\NeoPul1.4\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]
