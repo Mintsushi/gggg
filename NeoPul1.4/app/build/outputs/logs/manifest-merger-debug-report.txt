@@ -27,6 +27,7 @@ MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\府力\.android\
 MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\府力\.android\build-cache\9eff1877627d473ebdad23eb26f3351af9bcbba4\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-compat:25.3.1] C:\Users\府力\.android\build-cache\48c7fc5eb1c92ccd454e608d367cbcc9e22e21e0\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\府力\.android\build-cache\729e2b128d1297778b366cebbe9b8a28da022107\output\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\府力\.android\build-cache\d0c718ca427cce95583f82ce3cff33803600b09e\output\AndroidManifest.xml:9:5-20
 	android:label
 		ADDED from C:\AndroidSDK\NeoPul1.4\app\src\main\AndroidManifest.xml:8:9-41
 	android:supportsRtl
@@ -96,6 +97,7 @@ MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\府力\.android\
 MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\府力\.android\build-cache\9eff1877627d473ebdad23eb26f3351af9bcbba4\output\AndroidManifest.xml:21:5-23:61
 MERGED from [com.android.support:support-compat:25.3.1] C:\Users\府力\.android\build-cache\48c7fc5eb1c92ccd454e608d367cbcc9e22e21e0\output\AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\府力\.android\build-cache\729e2b128d1297778b366cebbe9b8a28da022107\output\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\府力\.android\build-cache\d0c718ca427cce95583f82ce3cff33803600b09e\output\AndroidManifest.xml:5:5-7:41
 	tools:overrideLibrary
 		ADDED from [com.android.support:design:25.3.1] C:\Users\府力\.android\build-cache\1af49deb1802531d03adb755f179b12096fbceae\output\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion

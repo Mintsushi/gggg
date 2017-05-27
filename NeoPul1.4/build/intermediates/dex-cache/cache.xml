@@ -16,8 +16,17 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="75b011772217588d3ff27bae126abb01876e622e">
+        sha1="bd84b245dcaa86f19a46ede598194c710e12f196">
         <dex dex="C:\AndroidSDK\NeoPul1.4\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_560b470591f0b5e076215ad5527f4ac4eaeb7478\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\리제\.android\build-cache\d0c718ca427cce95583f82ce3cff33803600b09e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="C:\AndroidSDK\NeoPul1.4\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_33ffc9127a19220f37bd268ef4583d28055693ce\classes.dex" />
     </item>
 
 </items>

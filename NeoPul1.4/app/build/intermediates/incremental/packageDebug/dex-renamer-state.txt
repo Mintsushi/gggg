@@ -1,4 +1,4 @@
-#Sat May 27 16:08:36 KST 2017
+#Sat May 27 17:06:33 KST 2017
 base.0=C\:\\AndroidSDK\\NeoPul1.4\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_560b470591f0b5e076215ad5527f4ac4eaeb7478
 renamed.1=classes.dex
 renamed.0=classes2.dex

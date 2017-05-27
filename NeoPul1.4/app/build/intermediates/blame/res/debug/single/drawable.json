@@ -4,10 +4,6 @@
         "source": "C:\\AndroidSDK\\NeoPul1.4\\app\\src\\main\\res\\drawable\\sunflower_brown.png"
     },
     {
-        "merged": "C:\\AndroidSDK\\NeoPul1.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\q.JPG",
-        "source": "C:\\AndroidSDK\\NeoPul1.4\\app\\src\\main\\res\\drawable\\q.JPG"
-    },
-    {
         "merged": "C:\\AndroidSDK\\NeoPul1.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
         "source": "C:\\Users\\리제\\.android\\build-cache\\f7153fa9113cb939dbb6f48272e52ec8716501f1\\output\\res\\drawable\\abc_switch_thumb_material.xml"
     },
@@ -20,16 +16,12 @@
         "source": "C:\\AndroidSDK\\NeoPul1.4\\app\\src\\main\\res\\drawable\\fertilizer.png"
     },
     {
-        "merged": "C:\\AndroidSDK\\NeoPul1.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "C:\\Users\\리제\\.android\\build-cache\\f7153fa9113cb939dbb6f48272e52ec8716501f1\\output\\res\\drawable\\abc_item_background_holo_light.xml"
-    },
-    {
-        "merged": "C:\\AndroidSDK\\NeoPul1.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\e.JPG",
-        "source": "C:\\AndroidSDK\\NeoPul1.4\\app\\src\\main\\res\\drawable\\e.JPG"
-    },
-    {
         "merged": "C:\\AndroidSDK\\NeoPul1.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
         "source": "C:\\Users\\리제\\.android\\build-cache\\1af49deb1802531d03adb755f179b12096fbceae\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\AndroidSDK\\NeoPul1.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\리제\\.android\\build-cache\\f7153fa9113cb939dbb6f48272e52ec8716501f1\\output\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
         "merged": "C:\\AndroidSDK\\NeoPul1.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_gallery.xml",
@@ -38,10 +30,6 @@
     {
         "merged": "C:\\AndroidSDK\\NeoPul1.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
         "source": "C:\\AndroidSDK\\NeoPul1.4\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
-    },
-    {
-        "merged": "C:\\AndroidSDK\\NeoPul1.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\w.JPG",
-        "source": "C:\\AndroidSDK\\NeoPul1.4\\app\\src\\main\\res\\drawable\\w.JPG"
     },
     {
         "merged": "C:\\AndroidSDK\\NeoPul1.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back.png",
@@ -112,10 +100,6 @@
         "source": "C:\\Users\\리제\\.android\\build-cache\\f7153fa9113cb939dbb6f48272e52ec8716501f1\\output\\res\\drawable\\notification_icon_background.xml"
     },
     {
-        "merged": "C:\\AndroidSDK\\NeoPul1.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\off.jpg",
-        "source": "C:\\AndroidSDK\\NeoPul1.4\\app\\src\\main\\res\\drawable\\off.jpg"
-    },
-    {
         "merged": "C:\\AndroidSDK\\NeoPul1.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_send.xml",
         "source": "C:\\AndroidSDK\\NeoPul1.4\\app\\src\\main\\res\\drawable\\ic_menu_send.xml"
     },
@@ -152,12 +136,12 @@
         "source": "C:\\Users\\리제\\.android\\build-cache\\f7153fa9113cb939dbb6f48272e52ec8716501f1\\output\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
-        "merged": "C:\\AndroidSDK\\NeoPul1.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "C:\\Users\\리제\\.android\\build-cache\\f7153fa9113cb939dbb6f48272e52ec8716501f1\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
-    },
-    {
         "merged": "C:\\AndroidSDK\\NeoPul1.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
         "source": "C:\\Users\\리제\\.android\\build-cache\\1af49deb1802531d03adb755f179b12096fbceae\\output\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\AndroidSDK\\NeoPul1.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\리제\\.android\\build-cache\\f7153fa9113cb939dbb6f48272e52ec8716501f1\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
         "merged": "C:\\AndroidSDK\\NeoPul1.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
@@ -204,10 +188,6 @@
         "source": "C:\\Users\\리제\\.android\\build-cache\\f7153fa9113cb939dbb6f48272e52ec8716501f1\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "C:\\AndroidSDK\\NeoPul1.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\t.JPG",
-        "source": "C:\\AndroidSDK\\NeoPul1.4\\app\\src\\main\\res\\drawable\\t.JPG"
-    },
-    {
         "merged": "C:\\AndroidSDK\\NeoPul1.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
         "source": "C:\\Users\\리제\\.android\\build-cache\\f7153fa9113cb939dbb6f48272e52ec8716501f1\\output\\res\\drawable\\notification_bg.xml"
     },
@@ -236,16 +216,8 @@
         "source": "C:\\AndroidSDK\\NeoPul1.4\\app\\src\\main\\res\\drawable\\water.png"
     },
     {
-        "merged": "C:\\AndroidSDK\\NeoPul1.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\c.png",
-        "source": "C:\\AndroidSDK\\NeoPul1.4\\app\\src\\main\\res\\drawable\\c.png"
-    },
-    {
         "merged": "C:\\AndroidSDK\\NeoPul1.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
         "source": "C:\\Users\\리제\\.android\\build-cache\\f7153fa9113cb939dbb6f48272e52ec8716501f1\\output\\res\\drawable\\abc_ic_clear_material.xml"
-    },
-    {
-        "merged": "C:\\AndroidSDK\\NeoPul1.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b.png",
-        "source": "C:\\AndroidSDK\\NeoPul1.4\\app\\src\\main\\res\\drawable\\b.png"
     },
     {
         "merged": "C:\\AndroidSDK\\NeoPul1.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
@@ -254,10 +226,6 @@
     {
         "merged": "C:\\AndroidSDK\\NeoPul1.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\touch.png",
         "source": "C:\\AndroidSDK\\NeoPul1.4\\app\\src\\main\\res\\drawable\\touch.png"
-    },
-    {
-        "merged": "C:\\AndroidSDK\\NeoPul1.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a.png",
-        "source": "C:\\AndroidSDK\\NeoPul1.4\\app\\src\\main\\res\\drawable\\a.png"
     },
     {
         "merged": "C:\\AndroidSDK\\NeoPul1.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
@@ -326,9 +294,5 @@
     {
         "merged": "C:\\AndroidSDK\\NeoPul1.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
         "source": "C:\\Users\\리제\\.android\\build-cache\\f7153fa9113cb939dbb6f48272e52ec8716501f1\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
-    },
-    {
-        "merged": "C:\\AndroidSDK\\NeoPul1.4\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\d.png",
-        "source": "C:\\AndroidSDK\\NeoPul1.4\\app\\src\\main\\res\\drawable\\d.png"
     }
 ]
